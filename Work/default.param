@@ -1,0 +1,7 @@
+NUMBER                   Running object number
+X_IMAGE                  Object position along x
+Y_IMAGE                  Object position along y
+A_IMAGE                  Profile RMS along major axis
+B_IMAGE                  Profile RMS along minor axis
+MAG_APER
+MAGERR_APER
